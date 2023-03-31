@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "Eshmat",
+        "user_password": "2112qwqw",
+        "user_email": "",
+        "profile_image": "",
+        "user_created_at": "",
+        "is_deleted": false
+    },
+    {
+        "user_id": "4924c776-0f0f-459d-a425-ae36ccb7972c",
+        "user_name": "Eshmat",
+        "user_email": "eshmat@gmail.com",
+        "user_password": "eshmat12",
+        "profile_img": "12edcewc"
+    },
+    {
+        "user_id": "819278be-7dda-4400-9ebd-e19ba2dc2c54",
+        "user_name": "Eshmatq",
+        "user_email": "eshmat@gmail.com",
+        "user_password": "eshmat12",
+        "profile_img": "12edcewc"
+    },
+    {
+        "user_id": "3aa58db1-a0fc-4803-b294-2af4969c20ed",
+        "user_name": "Eshmat12",
+        "user_email": "eshma12t@gmail.com",
+        "user_password": "$2b$12$y0XwnXTHZO3Ewnyi/HKcHuK1xImz.Ym6vy.Dm2QqoRFu/m7pvVoFS",
+        "profile_img": "12edcewc"
+    }
+]
