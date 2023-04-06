@@ -3,22 +3,16 @@ dotenv.config();
 import express from "express";
 import cors from "cors";
 
-import routers  from "./routers/index.js";
-import model from "./utils/fs.js"
+import routers from "./routes/index.js";
+import model from "./utils/fs.js";
 
 const app = express();
-const PORT = process.env.PORT  || 9000;
-
-
+const PORT = process.env.PORT || 9000;
 
 app.use(express.json());
 app.use(cors());
 
-
-
-
 app.use(model, routers);
-
 
 app.get("/*", (req, res) => res.sendStatus(404));
 

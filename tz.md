@@ -5,17 +5,6 @@ bcrypt
 uuid
 
 
-
-
-
-
-
-
-
-
-
-
-
 User Sign Up 
 
     (POST)

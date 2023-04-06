@@ -1,3 +1,8 @@
-import jwt from "jsonwebtoken"
+import jwt from "jsonwebtoken";
 
-export const sign = (payload) => jwt.sign(payload, process.env.JWT_SECERT_KEY, {expiresIn: 20});
+const sign = (payload) =>
+  jwt.sign(payload, process.env.JWT_SECERT_KEY, { expiresIn: 20 });
+
+const verify = (payload) => jwt.verify(payload, process.env.JWT_SECERT_KEY);
+
+export { sign, verify };

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "email": "qqqqqqqq",
+        "name": "qqqqqqqqqq",
+        "username": "Admin",
+        "password": "21",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "email": "qqqqqqqq",
+        "name": "qqqqqqqqqq",
+        "username": "User",
+        "password": "2",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "email": "ghfgh@gamil.com",
+        "name": " gfhgf hgf",
+        "username": "gfhgfh gfh",
+        "password": "gffghgfhgfh",
+        "role": "admin"
+    },
+    {
+        "id": 4,
+        "email": "webcoder@gmail.com",
+        "name": "webcoder",
+        "username": "webcoder",
+        "password": "webcoder",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "email": "kamol@gmail.com",
+        "name": "kamoliddin",
+        "username": "kamol",
+        "password": "kamol",
+        "role": "user"
+    }
+]
